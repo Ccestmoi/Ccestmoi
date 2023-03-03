@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ccestmoi
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Swift and how to use Unreal Engine.
+- 🌱 I learn Swift and how to use Unreal Engine, Blender, Houdini FX.
 - 📫 How to reach me Snapchat : flo77840 / Discord : @Ccestmoi#0054 / Twitter : @flo_4058
 
 <!---
